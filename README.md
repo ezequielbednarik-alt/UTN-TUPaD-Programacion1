@@ -22,7 +22,3 @@ Los archivos de código fuente (.py) incluyen comentarios y estructura adecuada.
 Se busca mantener un código limpio, ordenado y bien documentado.
 
 
-⚠️ Nota: Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-
-
-¡Recuerda mantener actualizado tu repositorio!
